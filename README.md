@@ -8,3 +8,5 @@ Files in this project include:
 4) S12XE-Calculator Part 2 - interfacing the NXP DEVKIT-S12XE to a matrix keypad featuring 44 keys (coming soon) 
 5) S12XE-Calculator Part 3 - the command line and stack 
 6) S12XE-Calculator Part 4 - the functions +,-,*,/
+7) S12XE-Calculator Part 5 - the algebraic and transcendental functions
+8) S12XE-Calculator Part 6 - writing programs on the calculator
