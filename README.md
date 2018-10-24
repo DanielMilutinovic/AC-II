@@ -9,4 +9,4 @@ Files in this project will include:
 5) S12XE-Calculator: Part 4 - the command line and stack (not yet added) 
 6) S12XE-Calculator: Part 5 - the functions +,-,*,/ (not yet added)
 7) S12XE-Calculator: Part 6 - the algebraic and transcendental functions (not yet added)
-8) S12XE-Calculator: Part 7 - writing programs on the S12XE-Calculator (not yet added)
+8) S12XE-Calculator: Part 7 - programmability (not yet added)
