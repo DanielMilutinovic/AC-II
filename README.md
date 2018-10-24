@@ -1,7 +1,7 @@
 # S12XE-Calculator
 A scientific, programmable calculator using the NXP 9S12XEP100  microcontroller.
 Inspired by Dirk Heisswolf's AriCalculator project (see https://hotwolf.github.io/AriCalculator/), this project will document the hardware and assembly language software of the prototype for a hand-held scientific, programmable calculator.
-Files in this project will include:
+Files in this project include:
 1) NXP 9S12XEP100 datasheet (added)
 2) S12XE-Calculator: Part 1 - Getting Started (not yet added - coming soon) 
 3) S12XE-Calculator: Part 2 - Interfacing the NXP DEVKIT-S12XE to an ST7565 display (not yet added)    
