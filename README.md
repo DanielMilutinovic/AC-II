@@ -4,4 +4,7 @@ Inspired by the AriCalculator project by Dirk Heisswolf (see https://hotwolf.git
 Files in this project include:
 1) NXP 9S12XEP100 datasheet
 2) S12XE-Calculator Introduction, giving an overview of the project (coming soon) 
-3) S12XE-Calculator Part 1, giving information on interfacing the NXP DEVKIT-S12XE to an ST7565 display (coming soon)  
+3) S12XE-Calculator Part 1 - interfacing the NXP DEVKIT-S12XE to an ST7565 display (coming soon)  
+4) S12XE-Calculator Part 2 - interfacing the NXP DEVKIT-S12XE to a matrix keypad featuring 44 keys (coming soon) 
+5) S12XE-Calculator Part 3 - the command line and stack 
+6) S12XE-Calculator Part 4 - the functions +,-,*,/
