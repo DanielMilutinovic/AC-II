@@ -7,7 +7,7 @@ Files in this project include:
 3) Chapter 2 - Interfacing the NXP DEVKIT-S12XE to an ST7565 display (not yet added)    
 4) Chapter 3 - Interfacing the NXP DEVKIT-S12XE to a matrix keypad (not yet added) 
 5) Chapter 4 - The command line and pushing values onto the stack (not yet added) 
-6) Chapter 5 - The stack operations
+6) Chapter 5 - The stack operations (not yet added)
 6) Chapter 6 - The functions +,-,*,/ (not yet added)
 7) Chapter 7 - The algebraic and transcendental functions (not yet added)
-8) Chapter 8 - Programmability (not yet added)
+8) Chapter 8 - Implementing keystroke programming 
