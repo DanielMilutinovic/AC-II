@@ -10,4 +10,4 @@ Files in this project include:
 6) Chapter 5 - The stack operations (not yet added)
 6) Chapter 6 - The functions +,-,*,/ (not yet added)
 7) Chapter 7 - The algebraic and transcendental functions (not yet added)
-8) Chapter 8 - Implementing keystroke programming 
+8) Chapter 8 - Implementing keystroke programming (not yet added) 
