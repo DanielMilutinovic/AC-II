@@ -9,5 +9,6 @@ Files in this project include:
 5) Chapter 4 - The command line and pushing values onto the stack (not yet added) 
 6) Chapter 5 - The stack operations (not yet added)
 6) Chapter 6 - The functions +,-,*,/ (not yet added)
-7) Chapter 7 - The algebraic and transcendental functions (not yet added)
-8) Chapter 8 - Implementing keystroke programming (not yet added) 
+7) Chapter 7 - The scientific functions (not yet added)
+8) Chapter 8 - The statistical functions (not yet added)
+9) Chapter 9 - Implementing keystroke programming (not yet added) 
